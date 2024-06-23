@@ -10,7 +10,7 @@ Sonic Auto TX Bot is an automated bot that sends Solana ($SOL) tokens to another
     ```
 2. Install dependencies:
     ```
-    cd sonic-autotx-bot.git
+    cd sonic-autotx-bot
     npm install
     ```
 3. Get your `privkey` address of solana from any wallet that supports solflare or phantom etc
